@@ -1,10 +1,9 @@
 <?php
-	mysql_connect("localhost", "root", "");
-	mysql_select_db("sp");
+	include("koneksi.php");
 
 	error_reporting(0);
 	
-	if(isset($_POST['register'])){
+	if(isset($_POST['register_member'])){
 		$username = $_POST['username'];
 		$pass = $_POST['pass'];
 		$cpass = $_POST['conpass'];

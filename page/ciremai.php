@@ -39,9 +39,9 @@
 <div class="page-header"><h4>Peta Pendakian</h4></div>
 		<div class="timeline-image">
         <center>
-      		<img class="img-thumbnail" src="img/gunung/peta-ciremai2.jpg" alt="..."></center>
+      		<img class="img-thumbnail" src="img/gunung/peta ciremai.jpg" alt="..."></center>
             <center><h6>Peta Pendakian Gunung Slamet</h6>
-            <p class="text-muted" style="text-align:center;">3.428 Mdpl</p></center>
+            <p class="text-muted" style="text-align:center;">2.900 Mdpl</p></center>
       	</div>
 	
     </div>
